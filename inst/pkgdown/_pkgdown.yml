@@ -1,0 +1,12 @@
+home:
+  sidebar:
+    structure: [links, license, community-org, citation, authors, dev]
+    components:
+      community-org:
+        title: Community
+        text: |
+          [Contributing guide](https://github.com/epinowcast/.github/blob/main/CONTRIBUTING.md)
+
+          [Style guide](https://github.com/epinowcast/.github/blob/main/STYLE_GUIDE.md)
+
+          [Code of conduct](https://github.com/epinowcast/.github/blob/main/CODE_OF_CONDUCT.md)
